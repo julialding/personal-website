@@ -18,6 +18,7 @@ const Experience = () => {
           </p>
           <ul className='pl-4'>
             <li>Advanced Computer Science II (data structures)</li>
+            <li>Computational Problem Solving</li>
             <li>Web Programming</li>
             <li>UNIX Operating Systems</li>
             <li>AP Computer Science A</li>

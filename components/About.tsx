@@ -24,7 +24,7 @@ const About = () => {
               Hack Clubber
             </a>
             <sup>1 </sup>
-            and puzzle enthusiast, I love
+            and puzzle enthusiast, I love{" "}
             <a
               className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
               href="https://arxiv.org/abs/2302.04389"
