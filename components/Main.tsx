@@ -30,7 +30,7 @@ const Main = () => {
                     <FaGithub />
                 </div>
                 </a>
-                <a href='mailto:jding713@gmail.com' target='_blank' rel='noreferrer'>
+                <a href='mailto:julia.ding@columbia.edu' target='_blank' rel='noreferrer'>
                 <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
                 </div>
