@@ -19,24 +19,24 @@ const Main = () => {
           I’m a software engineer and incoming C.P. Davis Scholar studying computer science at Columbia University.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
-          <a href='https://www.linkedin.com/in/julialding/' target='_blank' rel='noreferrer'>
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                <a href='https://www.linkedin.com/in/julialding/' target='_blank' rel='noreferrer'>
+                <div className='rounded-full shadow-lg shadow-gray-400 bg-neutral-200 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <FaLinkedinIn />
                 </div>
                 </a>
                 <a href='https://github.com/julialding' target='_blank' rel='noreferrer'
                 >
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 bg-neutral-200 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <FaGithub />
                 </div>
                 </a>
                 <a href='mailto:julia.ding@columbia.edu' target='_blank' rel='noreferrer'>
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                <div className='rounded-full shadow-lg shadow-gray-400 bg-neutral-200 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
                 </div>
                 </a>
-                <Link href='/resume'>
-                <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                <Link href='/resume.pdf'>
+                <div className='rounded-full shadow-lg shadow-gray-400 bg-neutral-200 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <BsFillPersonLinesFill />
                 </div>
                 </Link>

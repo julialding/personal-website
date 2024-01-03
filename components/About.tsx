@@ -110,7 +110,7 @@ const About = () => {
             </p>
           </Link>
         </div>
-        <div className="w-auto h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+        <div className="w-auto h-auto m-auto shadow-xl shadow-gray-400 bg-neutral-200 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
           <Image
             src="/assets/juliading23.jpg"
             height="600"
