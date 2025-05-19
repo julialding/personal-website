@@ -82,7 +82,13 @@ const About = () => {
               interning
             </a>
             <span> </span>
-            to build solutions in the edtech space.
+            to build solutions in the edtech space. Currently, I am a software engineer intern at{" "}
+            <a
+              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
+              href="https://batstoi.com/"
+            >
+              BATS-TOI
+            </a>{" "} and will be working at Google as a STEP intern this upcoming summer.
           </p>
           <p className="py-2 text-zinc-600">
             In my free time, I play the cello in orchestra and as part of the
@@ -112,8 +118,8 @@ const About = () => {
         </div>
         <div className="w-auto h-auto m-auto shadow-xl shadow-gray-400 bg-neutral-200 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
           <Image
-            src="/assets/juliading23.jpg"
-            height="600"
+            src="/assets/juliading24.jpg"
+            height="300"
             width="300"
             className="roundedxl"
             alt="/"

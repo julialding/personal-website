@@ -7,7 +7,7 @@
 
 @layer base {
   body {
-    @apply bg-[#ecf0f3] text-zinc-800 tracking-wide
+    @apply bg-gradient-to-br from-stone-200 via-zinc-200 to-zinc-100 text-zinc-800 tracking-wide;
   }
 
   h1, h2, h3, h4, h5, h6 {
