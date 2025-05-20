@@ -28,7 +28,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div style={{ backgroundColor: `${navBg}` }} className="fixed w-full h-20 shadow-xl z-100">
+    <div style={{ backgroundColor: `${navBg}` }} className="fixed w-full h-20 shadow-xl z-50">
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Image src="/assets/navinitials.png" alt="/" width="125" height="100" />
         <div>

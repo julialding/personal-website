@@ -16,83 +16,16 @@ const About = () => {
           </h2>
           <p className="group py-2 text-zinc-600">
             Whether literally or figuratively, I'm always building: knowledge,
-            passions, applications, communities. As an avid{" "}
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://hackclub.com"
-            >
-              Hack Clubber
-            </a>
-            <sup>1 </sup>
-            and puzzle enthusiast, I love{" "}
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://arxiv.org/abs/2302.04389"
-            >
-              exploring
-            </a>{" "}
-            the intersection of computer science and math. I enjoy{" "}
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://schoolhouse.world/u/7977"
-            >
-              teaching
-            </a>
-            <span> </span>
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="http://mtyacademy.com/home.html"
-            >
-              other
-            </a>
-            <span> </span>
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="http://defineinclude.com/home"
-            >
-              students,
-            </a>
-            <span> </span>
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://lasa.hackclub.com/"
-            >
-              leading
-            </a>
-            <span> </span>
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://www.lasacsclubs.com/women-in-computer-science"
-            >
-              clubs
-            </a>
-            <span> </span>
-            and leadership{" "}
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="http://lasastuco.org/"
-            >
-              organizations
-            </a>
-            , and<span> </span>
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://fiveable.me"
-            >
-              interning
-            </a>
-            <span> </span>
-            to build solutions in the edtech space. Currently, I am a software engineer intern at{" "}
-            <a
-              className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
-              href="https://batstoi.com/"
-            >
-              BATS-TOI
-            </a>{" "} and will be working at Google as a STEP intern this upcoming summer.
+            passions, applications, communities. I've interned at Google for the past 
+            two summers and was an AI fellow at Verizon this past year. At Columbia, 
+            I serve on the Executive Board of our Quant Group and IEEE and also help 
+            to lead our Women in Computer Science Club and Application Development 
+            Initiative Club. I serve as the Professional Development & Alumni 
+            Affairs Representative on our Engineering Student Council, dance as part of
+            Orchesis, and am a Resident Adviser.
           </p>
           <p className="py-2 text-zinc-600">
-            In my free time, I play the cello in orchestra and as part of the
-            Arcesso String Quartet. I'm an<span> </span>
+            In my free time, I play the cello and piano. I'm an<span> </span>
             <a
               className="underline underline-offset-2 decoration-2 decoration-sky-700 hover:decoration-[3px] hover:decoration-sky-800"
               href="https://www.instagram.com/hingryjulia/"
@@ -100,15 +33,8 @@ const About = () => {
               absolute foodie
             </a>
             <span> </span>
-            and will give live on-demand food reviews (Gordon Ramsay style if
-            desired). I'm always up for a game of Word Hunt, Set, or ERS and am
-            a big fan of 0.5 Muji gel pens, the word bamboozled, taking pictures
-            (especially of food), bad puns, boba milk tea, chicken fettuccine,
-            and long lists. Feel free to reach out!
-          </p>
-          <p className="py-2 text-xs text-zinc-600">
-            <sup>1</sup>Hacking: The (non-malicious) use of technology to solve
-            real-world problems.
+            and enjoy eating cheese, journaling, and trying new restaurants and cafes. 
+            Feel free to reach out!
           </p>
           <Link href="/#projects">
             <p className="py-2 text-zinc-600 underline cursor-pointer">
